@@ -1,0 +1,212 @@
+
+/* div{
+    border: 1px solid;
+} */
+
+header .container-fuild{
+    background-color: #EEE9E9;
+    
+}
+/* danh mục  */
+header .container-fuild #navbar{ 
+    background-color: black;
+    /* opacity: 60%; */
+}
+.dieuhuong{
+    padding-top: 10px;
+    padding-left: 450px;
+    display: inline-block;
+}
+.dieuhuong li{
+    list-style: none;
+}
+.dieuhuong li a{
+    padding: 0px 30px;
+    text-decoration: none;
+    color: cornsilk;
+}
+.dieuhuong a{
+    margin-left: 30px;
+    color: black;
+}
+.dieuhuong a:hover{
+    color: cornsilk;
+    border-bottom: 3px solid cornsilk;
+}
+/* ------------------------------------------------- */
+/* -------------------PAGE1------------------------- */
+.col-lg-6:first-child{
+    position: relative;
+}
+.img-1{
+  margin-right: 10px;
+}
+.container-fuild:nth-child(1) > .row .head1-row h1{
+    font-size: 4.5rem; 
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.container-fuild:nth-child(1) > .row .head2-row p{
+    padding-top: 60px;
+    margin-left: 50px;
+}
+.container-fuild:nth-child(1) > .row .head2-row button{
+    margin-top: 60px;
+    margin-left: 50px;
+    padding: 10px 20px;
+    text-align: center;
+    background-color:darksalmon;
+    border: none;
+    font-size:20px;
+}
+/* -------------------------------------------------------- */
+/* -------------------PAGE2-------------------------------- */
+
+.container-fuild:nth-child(1) > .row .head3-row h1{
+    font-size: 4.5rem; 
+    margin-top: 130px;
+    margin-left: 50px;
+}
+.container-fuild:nth-child(1) > .row .head3-row p{
+    padding-top: 60px;
+    margin-left: 50px;
+}
+.container-fuild:nth-child(1) > .row .head3-row button{
+    margin-top: 60px;
+    margin-left:50px;
+    padding: 10px 20px;
+    margin-bottom: 150px;
+    text-align: center;
+    background-color:darksalmon;
+    border: none;
+    font-size:20px;
+}
+.ct-1 .container-fuild {
+    background-image:url("../img/Place\ Your\ Image\ Here2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y:-10px;
+    background-position-x: 5px;
+
+}
+/* ----------------------------------------------------- */
+/* ------------------PAGE3------------------------------- */
+
+.ct-2 .container-fuild .a1{
+    padding: 50px;
+    padding-left: 100px;
+    /* border: 1px solid; */
+
+}
+.ct-2 .container-fuild .a2{
+    padding: 80px;
+    padding-left: 100px;
+    /* border: 1px solid; */
+}
+.ct-2 .container-fuild .a3{
+    padding: 100px;
+    padding-left: 50px;
+    /* border: 1px solid; */
+}
+.ct-2 .container-fuild .part1a h6{
+    margin-left: 40%;
+    margin-top: 45px;
+}
+.ct-2 .container-fuild .part1a p{
+    margin-left: 25%;
+}
+.ct-2 .container-fuild .part1b h6{
+    margin-left: 40%;
+}
+.ct-2 .container-fuild .part1b p{
+    margin-left: 25%;
+}
+.ct-2 .container-fuild .part1c h6{
+    margin-left: 35%;
+    margin-top: 10px;
+}
+.ct-2 .container-fuild .part1c p{
+    margin-left: 20%;
+}
+.container-fuild:nth-child(1) > .row .head4-row h1{
+    font-size: 4.5rem; 
+    margin-top: 130px;
+    margin-left: 50px;
+}
+.container-fuild:nth-child(1) > .row .head4-row p{
+    padding-top: 60px;
+    margin-left: 50px;
+}
+.container-fuild:nth-child(1) > .row .head4-row button{
+    margin-top: 60px;
+    margin-left:50px;
+    padding: 10px 20px;
+    margin-bottom: 150px;
+    text-align: center;
+    background-color:darksalmon;
+    border: none;
+    font-size:20px;
+}
+
+content .container-fuild{
+    background-color: #EEE9E9;
+}
+.ct-2 .container-fuild .a4{
+    height:540px;
+    width: 580px;
+    margin-top: 100px;
+}
+
+/*-----------------PAGE4----------------- */
+.ct-3 .container-fuild .head5-row h1{
+    margin-left: 40%;
+    font-size: 4.5rem; 
+}
+.ct-3 .container-fuild .head5-row p{
+    padding-top: 20px;
+    margin-left: 100px;
+    text-align: center;
+    margin-right: 70px;
+}
+.ct-3 .container-fuild .row .b{
+    height: 300px;
+    margin: 50px;
+    box-shadow: 10px 10px 15px 5px #B5B5B5;
+    
+}
+.ct-3 .container-fuild .row h5{
+    margin-left: 30%;
+}
+.ct-3 .container-fuild .row p{
+    margin-left: 5%;
+    text-align: center;
+    margin-right: 10%;
+    margin-bottom: 80px;
+}
+/* ---------------------------CONTACT---------------------- */
+footer{
+    background-color: #363636;
+    color: white;
+}
+footer .container-fuild .ft-a h3{
+     font-size: 20px;
+     padding: 10px;
+}
+footer .container-fuild .ft-a p{
+    padding: 10px;
+}
+footer .container-fuild .ft-b h6{
+    padding: 10px 40px;
+}
+footer .container-fuild .ft-b li{
+    padding: 3px;
+    list-style: none;
+}
+footer .container-fuild .ft-c p{
+    padding-top: 130px;
+    padding-left: 30px;
+    padding-right: 120px;
+ 
+}
+
+
